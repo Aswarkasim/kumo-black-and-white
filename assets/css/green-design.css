@@ -1,0 +1,150 @@
+@font-face{
+	font-family: 'lemon';
+	src:url(../fonts/LemonMilk.otf);
+}
+.navbaar-default{
+	background-color: white;
+
+}
+.menu{
+	width: 70%;
+	margin: 0 auto;
+}
+#bnn{
+	width: 100%;
+}
+.compass{
+	padding-top: 20px;
+	font-family: 'lemon';
+	letter-spacing: 10px;
+
+}
+.jarak{
+	padding-top: 80px;
+
+}
+.link-hijau{
+	color: #4abd92;
+}
+.jumbotron{
+
+	background-color: #4abd92;
+	border-radius: 0px;
+}
+.map-gr{
+	padding-top: 190px;
+}
+.learn{
+	margin-top: 40px;
+}
+.tombol-learn{
+	color: white;
+	background-color: #292e34;
+	padding: 20px 60px;
+	margin-top: 40px;
+	text-decoration: none;
+	transition: 0.3s;
+
+}
+.tombol-learn:hover{
+	background-color: white;
+	text-decoration: none;
+	border:2px #292e34 solid;
+}
+a{
+	text-decoration: none;
+}
+.road-map{
+	color: white;
+}
+.road-map p{
+	font-size: 15px;
+	color: white;
+}
+p{
+	color: #7f8080;
+}
+#gear-menu a{
+	color: #4abd92;
+
+}
+#gear-menu{
+	padding-top: 40px;
+}
+.paragraph{
+	padding-top: 50px;
+}
+.learn-none{
+	color: #4abd92;
+	font-size: 20px;
+	padding-top: 20px;
+	transition: 0.3s;
+	padding-bottom: 20px;
+}
+.learn-none:hover{
+	color: #4abd92;
+}
+.isi{
+	padding-top: 15px;
+}
+#see-all a{
+	color: #4abd92;
+}
+#footer-gear{
+	margin-top: 40px;
+	margin-bottom: 0px;
+}
+html, body{
+	height: 100%;
+}
+.our{
+	height: 100%;
+}
+.guides{
+	height: 100%;
+}
+#gear-img{
+	position: absolute;
+	width: 100%;
+}
+.kosong{
+	width: 100%;
+	height: 84%;
+	background: rgba(38, 47, 51, 0.5);
+	position: relative;
+	position: absolute;
+}
+.konten-guides{
+
+	padding-top: 10%;
+}
+.konten-text{
+	color: white;
+}
+.konten-text p{
+	color: white;
+}
+.tombol-started{
+	padding-top: 10%;
+}
+#get-started{
+	color: white;
+	background-color: #4abd92;
+	padding: 20px 40px;
+	top: 30%;
+	transition: 0.3s;
+}
+#get-started:hover{
+	text-decoration: none;
+	box-shadow: 5px 5px 30px black;
+	background-color: white;
+	border: 2px #4abd92 solid;
+	color: #4abd92;
+}
+.foto-pp{
+	border-radius: 100%;
+	width: 200px;
+}
+.footer{
+	margin-bottom: 0px;
+}
